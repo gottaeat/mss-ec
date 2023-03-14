@@ -16,8 +16,8 @@ licenses
  - https://gitlab.gnome.org/GNOME/adwaita-icon-theme/-/blob/master/COPYING
 > terminus-font
  - http://scripts.sil.org/OFL
-> liberation-fonts
- - https://github.com/liberationfonts/liberation-fonts/blob/main/LICENSE
+> croscore
+ - https://github.com/notofonts/noto-fonts/blob/main/LICENSE
 > sazanami
  - https://osdn.net/projects/efont/downloads/10087/sazanami-20040629.tar.bz2
   * license should be in the tarball.
